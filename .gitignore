@@ -9,7 +9,6 @@ __pycache__/
 
 # Ignorar arquivos de saída
 *.csv
-*.png
 *.jpg
 *.jpeg
 
