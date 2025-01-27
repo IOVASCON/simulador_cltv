@@ -91,4 +91,3 @@ Ao executar o script, você terá:
 - Estrutura organizada de pastas e arquivos.
 - Arquivo .gitignore para evitar versionar arquivos desnecessários.
 - Um USAGE.md com instruções claras de uso.
-
